@@ -7,7 +7,7 @@ General Direction
 -----------------
 Clearly this repository is housing translations for the BITeamwork plug-in framework. Initially our goal is to map locales to an arbitrary standard of the following list of Locales.
 
-Wiki [Locales Page](https://github.com/artofbi/BITeamwork-Translations/wiki/Locales-for-Translation-(General))
+Wiki [Locales for Translation page](https://github.com/artofbi/BITeamwork-Translations/wiki/Locales-for-Translation).
 
 
 Instructions
@@ -16,7 +16,7 @@ To contribute to the language translation you may clone the repository.  If you 
 
 'git clone https://github.com/artofbi/BITeamwork-Translations.git'
 
-This will create a new directory called /BITaamwork-Tranlsations in the directory from which you ran the command.
+This will create a new directory called /BITeamwork-Translations in the directory from which you ran the command.
 
 Open the new directory and locate the two main template files: _messages_template.properties and _application-template.json
 
