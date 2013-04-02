@@ -1,0 +1,97 @@
+{
+  "translation": {
+    "language": "French",
+    "translator": "C.S.",
+    "lastupdate": "2013/03/30"
+  },
+  "title": "BITeamwork (FR)",
+  "menu": {
+      "settings": "Configuration",
+      "sketch": "Croquis"
+  },
+  "buttons": {
+    "bookmark": "Bookmark",
+    "share": "Part"
+  },
+  "activitysection": {
+    "title": "Activité",
+    "currentcollaborationtitle": "Commentaires",
+    "filterbtn": "Filter"
+  },
+  "sumsection": {
+    "dashboardcommentstitle": "Commentaires",
+    "cellcommentstitle": "Commentaires Cellulaires",
+    "filterbtn": "Filtrer"
+  },
+  "comments": {
+    "commentslinktitle": "Commentaires",
+    "commentsreplylinktitle": "Répondre",
+    "commenttype": "Type",
+    "commentcategory": "Catégorie",
+    "comment": "Commenter",
+    "nocommentspostedyet": "Il n'ya pas de commentaires sur ce tableau de bord ou votre filtre de recherche est trop stricte.<br />Allez déjà, obtenir sociale!<br />Ecrire un commentaire!",
+    "commenthistorytitle": "Commenter Histoire",
+    "nocommenthistoryyet": "Pas de commentaires de votre part.<br />Allez déjà, obtenir sociale!",
+    "RSSdashboardcommentfeed": "S'abonner au flux de ce commentaire Dashboard",
+    "modal": {
+        "commenttab": "Commenter",
+        "viewalltab": "Voir tous",
+        "historytab": "Histoire",
+        "settingstab": "Réglages",
+        "addcommenttitle":"Ecrire un commentaire",
+        "addcellcommenttitle":"Ecrire un commentaire cellulaire",
+        "typelabel": "Type",
+        "commentlabel": "Commenter",
+        "categorylabel": "Catégorie",
+        "assigntolabel": "Attribuer à",
+        "submitcommentbutton": "Envoyer un commentaire",
+        "statusmsgs": {
+            "noprivilegecreatedashcomment":"Vous n'avez pas les droits pour créer un tableau de bord commentaire.<p>Contactez votre administrateur BI si vous croyez que vous avez reçu ce message par erreur.</p>"
+        }
+        
+    }
+  },
+  "search": {
+    "search": "Rechercher",
+    "button": "Aller",
+    "keywordlabel": "mot-clé",
+    "orderbylabel": "Trier par",
+    "sortlabel": "Trier",
+    "applybutton": "Appliquer"
+  },
+  "sidebarheader": {
+    "title": "BITeamwork pour Oracle BI"
+  },
+  "sidebarfooter": {
+    "captionprefix": "Collaborative BI",
+    "captionfor": "pour"
+  },
+  "admin": {
+      "header": {
+          "mainmsg": "BITeamwork est une expérience utilisateur final plug-in pour Oracle BI qui fournit la communication sociale, les notifications, les commentaires du tableau de bord, et d'autres fonctionnalités augmentant. Ces caractéristiques complètent Oracle BI et ajouter de la valeur à l'ensemble UX."
+      },
+      "nav": {
+          "company": "Firme",
+          "eeye": "Environnement Eye",
+          "uri": "Accès URI",
+          "splash": "Splash Pages",
+          "categories": "Catégories",
+          "commentmgr": "Category Manager",
+          "security": "Sécurité",
+          "socialapps": "Social Apps",
+          "maintenance": "Entretien",
+          "obiwebservices": "OBIEE Web Services",
+          "syncmgr": "Sync Manager",
+          "applicationmgr": "Application Manager",
+          "serverinfo": "Server Info",
+          "support": "Aider",
+          "selectoptionmsg": "Sélectionnez une option d'administration de la gauche pour commencer."
+      },
+      "company": {
+          
+      },
+      "security": {
+          "msgwarningnoinitialsync":"Il semble que vous n'avez pas effectué la synchronisation initiale avec le système BI pour rassembler les utilisateurs et les rôles d'application. Cliquez sur le lien OBIEE service Web, entrez les informations d'identification, puis utiliser le Gestionnaire de synchronisation."
+      }
+  }
+}
