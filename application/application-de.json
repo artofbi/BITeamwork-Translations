@@ -1,0 +1,97 @@
+{
+  "translation": {
+    "language": "German",
+    "translator": "C.S.",
+    "lastupdate": "2013/03/17"
+  },
+  "title": "BITeamwork (DE)",
+  "menu": {
+      "settings": "Konfiguration",
+      "sketch": "Skizze"
+  },
+  "buttons": {
+    "bookmark": "Lesezeichen",
+    "share": "Teilen"
+  },
+  "activitysection": {
+    "title": "Aktivität",
+    "currentcollaborationtitle": "Dashboard Kommentare",
+    "filterbtn": "filtern"
+  },
+  "sumsection": {
+    "dashboardcommentstitle": "Dashboard Kommentare",
+    "cellcommentstitle": "Cell Kommentare",
+    "filterbtn": "filtern"
+  },
+  "comments": {
+    "commentslinktitle": "Kommentare",
+    "commentsreplylinktitle": "antworten",
+    "commenttype": "Sorte",
+    "commentcategory": "Kategorie",
+    "comment": "Kommentar",
+    "nocommentspostedyet": "Es gibt keine Kommentare zu diesem Dashboard.<br />Komm schon, steh soziale!<br />Schreiben Sie einen Kommentar!",
+    "commenthistorytitle": "Kommentar Geschichte",
+    "nocommenthistoryyet": "Keine Kommentare von Ihnen noch.<br />Komm schon, steh soziale!",
+    "RSSdashboardcommentfeed": "Abonnieren Sie dieses Dashboard Kommentar-Feed",
+    "modal": {
+        "commenttab": "Kommentar",
+        "viewalltab": "Alle",
+        "historytab": "Geschichte",
+        "settingstab": "Settings",
+        "addcommenttitle":"Schreibe einen Kommentar",
+        "addcellcommenttitle":"Schreibe ein Zellen Kommentar",
+        "typelabel": "Sorte",
+        "commentlabel": "Kommentar",
+        "categorylabel": "Kategorie",
+        "assigntolabel": "zuweisen",
+        "submitcommentbutton": "Kommentar abschicken",
+        "statusmsgs": {
+            "noprivilegecreatedashcomment":"Sie haben noch Privilegien, um ein Dashboard Kommentar zu erstellen. <p>Kontaktieren Sie Ihren BI-Administrator, wenn Sie glauben, Sie haben diese Nachricht irrtümlich erhalten haben.</p>"
+        }
+        
+    }
+  },
+  "search": {
+    "search": "Suchen",
+    "button": "Weiter",
+    "keywordlabel": "Keyword",
+    "orderbylabel": "Order By",
+    "sortlabel": "Sort",
+    "applybutton": "Weiter"
+  },
+  "sidebarheader": {
+    "title": "BITeamwork für Oracle BI"
+  },
+  "sidebarfooter": {
+    "captionprefix": "Collaborative BI",
+    "captionfor": "für"
+  },
+  "admin": {
+      "header": {
+          "mainmsg": "BITeamwork ist eine Erfahrung der Endnutzer Plug-In für Oracle BI, die soziale Kommunikation, Benachrichtigungen, Dashboards Kommentar und anderen vermehren Funktionen bereitstellt. Diese Funktionen ergänzen Oracle BI und den Wert des gesamten UX."
+      },
+      "nav": {
+          "company": "Firme",
+          "eeye": "Umwelt Eye",
+          "uri": "URI Zugang",
+          "splash": "Splash Pages",
+          "categories": "Kategorien",
+          "commentmgr": "Kommentar-Manager",
+          "security": "Sicherheit",
+          "socialapps": "Social Apps",
+          "maintenance": "Wartung",
+          "obiwebservices": "OBIEE Web Services",
+          "syncmgr": "Sync Manager",
+          "applicationmgr": "Application Manager",
+          "serverinfo": "Server Info",
+          "support": "Unterstützung",
+          "selectoptionmsg": "Wählen Sie eine Administrative Option aus dem linken zu beginnen."
+      },
+      "company": {
+          
+      },
+      "security": {
+          "msgwarningnoinitialsync":"Es scheint, dass Sie nicht die erste Sync mit dem BI-System durchgeführt, um die Nutzer und Anwendung Rollen zu sammeln. Klicken Sie auf den OBIEE Web Service Link, geben Sie die Anmeldeinformationen, dann verwenden Sie die Sync Manager."
+      }
+  }
+}
