@@ -15,38 +15,38 @@
   },
   "activitysection": {
     "title": "Aktivität",
-    "currentcollaborationtitle": "Dashboard Kommentare",
-    "filterbtn": "filtern"
+    "currentcollaborationtitle": "Dashboardkommentare",
+    "filterbtn": "Filtern"
   },
   "sumsection": {
-    "dashboardcommentstitle": "Dashboard Kommentare",
-    "cellcommentstitle": "Cell Kommentare",
-    "filterbtn": "filtern"
+    "dashboardcommentstitle": "Dashboardkommentare",
+    "cellcommentstitle": "Zellkommentare",
+    "filterbtn": "Filtern"
   },
   "comments": {
     "commentslinktitle": "Kommentare",
-    "commentsreplylinktitle": "antworten",
-    "commenttype": "Sorte",
+    "commentsreplylinktitle": "Antworten",
+    "commenttype": "Typ",
     "commentcategory": "Kategorie",
     "comment": "Kommentar",
-    "nocommentspostedyet": "Es gibt keine Kommentare zu diesem Dashboard.<br />Komm schon, steh soziale!<br />Schreiben Sie einen Kommentar!",
-    "commenthistorytitle": "Kommentar Geschichte",
-    "nocommenthistoryyet": "Keine Kommentare von Ihnen noch.<br />Komm schon, steh soziale!",
-    "RSSdashboardcommentfeed": "Abonnieren Sie dieses Dashboard Kommentar-Feed",
+    "nocommentspostedyet": "Es existieren keine Kommentare zu diesem Dashboard oder ihr Filter ist zu restriktiv.<br />Schreiben Sie einen Kommentar!",
+    "commenthistorytitle": "Kommentarhistorie",
+    "nocommenthistoryyet": "Sie haben noch keine Kommentare verfasst.",
+    "RSSdashboardcommentfeed": "Abonnieren Sie den Feed für die Kommentare dieses Dashboards",
     "modal": {
         "commenttab": "Kommentar",
         "viewalltab": "Alle",
-        "historytab": "Geschichte",
-        "settingstab": "Settings",
-        "addcommenttitle":"Schreibe einen Kommentar",
-        "addcellcommenttitle":"Schreibe ein Zellen Kommentar",
-        "typelabel": "Sorte",
+        "historytab": "Historie",
+        "settingstab": "Einstellungen",
+        "addcommenttitle":"Kommentar verfassen",
+        "addcellcommenttitle":"Zellkommentar verfassen",
+        "typelabel": "Typ",
         "commentlabel": "Kommentar",
         "categorylabel": "Kategorie",
-        "assigntolabel": "zuweisen",
-        "submitcommentbutton": "Kommentar abschicken",
+        "assigntolabel": "Kommentar zuweisen",
+        "submitcommentbutton": "Kommentar speichern",
         "statusmsgs": {
-            "noprivilegecreatedashcomment":"Sie haben noch Privilegien, um ein Dashboard Kommentar zu erstellen. <p>Kontaktieren Sie Ihren BI-Administrator, wenn Sie glauben, Sie haben diese Nachricht irrtümlich erhalten haben.</p>"
+            "noprivilegecreatedashcomment":"Sie besitzen noch nicht die n√∂tigen Berechtigungen, um Dashboardkommentare zu erstellen.<p>Kontaktieren Sie Ihren BI-Administrator, wenn Sie glauben, diese Nachricht irrtümlich erhalten zu haben.</p>"
         }
         
     }
@@ -54,9 +54,9 @@
   "search": {
     "search": "Suchen",
     "button": "Weiter",
-    "keywordlabel": "Keyword",
-    "orderbylabel": "Order By",
-    "sortlabel": "Sort",
+    "keywordlabel": "Stichwort",
+    "orderbylabel": "Sortieren Nach",
+    "sortlabel": "Sortieren",
     "applybutton": "Weiter"
   },
   "sidebarheader": {
@@ -68,30 +68,30 @@
   },
   "admin": {
       "header": {
-          "mainmsg": "BITeamwork ist eine Erfahrung der Endnutzer Plug-In für Oracle BI, die soziale Kommunikation, Benachrichtigungen, Dashboards Kommentar und anderen vermehren Funktionen bereitstellt. Diese Funktionen ergänzen Oracle BI und den Wert des gesamten UX."
+          "mainmsg": "BITeamwork ist ein Plug-In für Oracle BI welche dem Endnutzer soziale Kommunikation, Benachrichtigungen, Dashboardkommentare sowie andere erweiternde Funktionalitäten zur Verfügung stellt. Diese Funktionalitäten ergänzen Oracle BI und bereichern die Anwedererfahrung."
       },
       "nav": {
-          "company": "Firme",
+          "company": "Firma",
           "eeye": "Umwelt Eye",
           "uri": "URI Zugang",
-          "splash": "Splash Pages",
+          "splash": "Splashpages",
           "categories": "Kategorien",
-          "commentmgr": "Kommentar-Manager",
+          "commentmgr": "Kategoriemanager",
           "security": "Sicherheit",
-          "socialapps": "Social Apps",
+          "socialapps": "Social Appls",
           "maintenance": "Wartung",
-          "obiwebservices": "OBIEE Web Services",
+          "obiwebservices": "OBIEE Webservices",
           "syncmgr": "Sync Manager",
           "applicationmgr": "Application Manager",
-          "serverinfo": "Server Info",
+          "serverinfo": "Server Informationen",
           "support": "Unterstützung",
-          "selectoptionmsg": "Wählen Sie eine Administrative Option aus dem linken zu beginnen."
+          "selectoptionmsg": "Wählen Sie eine administrative Option aus dem Menü (links) aus, um zu beginnen."
       },
       "company": {
           
       },
       "security": {
-          "msgwarningnoinitialsync":"Es scheint, dass Sie nicht die erste Sync mit dem BI-System durchgeführt, um die Nutzer und Anwendung Rollen zu sammeln. Klicken Sie auf den OBIEE Web Service Link, geben Sie die Anmeldeinformationen, dann verwenden Sie die Sync Manager."
+          "msgwarningnoinitialsync":"Es scheint, dass Sie noch nicht die initiale Synchronisation mit dem BI-System durchgeführt haben, welches die Nutzer und Anwendungsrollen sammelt. Klicken Sie auf den OBIEE Web Service Link, geben Sie die Zugangsinformationen ein und verwenden Sie dann den Sync Manager."
       }
   }
 }

@@ -3,6 +3,9 @@ BITeamwork Translations
 
 This repository is established as a community-based extension to the popular BITeamwork plug-in for Oracle BI 11g.  It provides the means for users and developers of Oracle BI to contribute correct translations of the BITeamwork software in their native language.  Users can fork the repository, create a push request with a brand new language template by replacing the English values with those in a language which they natively speak. This type of collaboration assists in the global user adoption of BITeamwork and native speaking users.
 
+The Collaborative BI tool, BITeamwork, offers a Community Edition and an Enterprise Edition. Although both editions take advantage of these localization scripts, neither edition is open source, and each inidividual's or group's contributions to this localization project is deemed of free will and the benefit of all users of the product with no aim of compensation, ownership, or copyright.
+
+
 General Direction
 -----------------
 Clearly this repository is housing translations for the BITeamwork plug-in framework. Initially our goal is to map locales to an arbitrary standard of the following list of Locales.
