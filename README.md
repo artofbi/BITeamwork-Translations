@@ -40,4 +40,4 @@ Contributors
 All of the individuals who have humbled BITeamwork with their time and effort are listed here.  Special Thanks goes to:
 
 * Google Translate
-
+* Christian Berg (German, French)
