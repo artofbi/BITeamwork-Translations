@@ -1,0 +1,26 @@
+{
+  "title": "BITeamwork US",
+  "buttons": {
+    "bookmark": "Bookmark",
+    "Share": "Share"
+  },
+  "activitysection": {
+    "title": "Activity",
+    "currentcollaborationtitle": "Current Dashboard Comments",
+    "filterbtn": "Filter"
+  },
+  "comments": {
+    "commentslinktitle": "Comments",
+    "commentsreplylinktitle": "Reply"
+  },
+  "search": {
+    "placeholder": "Searcho...",
+    "button": "Vamos!"
+  },
+  "sidebarheader": {
+    "title": "BITeamwork for Oracle BI"
+  },
+  "sidebarfooter": {
+    "captionprefix": "Collaborative BI for"
+  } 
+}

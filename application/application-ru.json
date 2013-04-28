@@ -1,0 +1,97 @@
+{
+  "translation": {
+    "language": "Русский",
+    "translator": "A.Y.",
+    "lastupdate": "2013/04/22"
+  },
+  "title": "BITeamwork (EN)",
+  "menu": {
+      "settings": "Конфигурация",
+      "sketch": "Скетч"
+  },
+  "buttons": {
+    "bookmark": "Закладки",
+    "share": "Поделиться"
+  },
+  "activitysection": {
+    "title": "Деятельность",
+    "currentcollaborationtitle": "Комментарии к Дэшборд",
+    "filterbtn": "Фильтр"
+  },
+  "sumsection": {
+    "dashboardcommentstitle": "Комментарии к Дэшборд",
+    "cellcommentstitle": "Комментарии к ячейке",
+    "filterbtn": "Фильтр"
+  },
+  "comments": {
+    "commentslinktitle": "Комментарий",
+    "commentsreplylinktitle": "Ответить",
+    "commenttype": "Тип",
+    "commentcategory": "Категория",
+    "comment": "Комментировать",
+    "nocommentspostedyet": "На этом дэшборде нет комментариев или ваш фильтр слишком строг.<br />Давайте уже, будьте социальны!<br />Напишите комментарий!",
+    "commenthistorytitle": "История изменений",
+    "nocommenthistoryyet": "От вас пока нет комментариев.<br />Давайте уже, будьте социальны!",
+    "RSSdashboardcommentfeed": "Подписаться на комментарии этой дэшборд",
+    "modal": {
+        "commenttab": "Комментарий",
+        "viewalltab": "Увидеть все",
+        "historytab": "История",
+        "settingstab": "Установки",
+        "addcommenttitle":"Написать комментария",
+        "addcellcommenttitle":"Написать комментарий к ячейке",
+        "typelabel": "Тип",
+        "commentlabel": "Комментарий",
+        "categorylabel": "Категория",
+        "assigntolabel": "Назначить к",
+        "submitcommentbutton": "Добавить комментарий",
+        "statusmsgs": {
+            "noprivilegecreatedashcomment":"У Вас нет привилегии добавлять комментарий к дэшборду.<p>Свяжитесь с вашим BI Администратором если Вам кажется, что вы получили это сообщение по ошибке.</p>"
+        }
+        
+    }
+  },
+  "search": {
+    "search": "Поиск",
+    "button": "Перейти",
+    "keywordlabel": "Ключевое слово",
+    "orderbylabel": "Упорядочить по",
+    "sortlabel": "Сортировать",
+    "applybutton": "Готово"
+  },
+  "sidebarheader": {
+    "title": "BITeamwork for Oracle BI"
+  },
+  "sidebarfooter": {
+    "captionprefix": "Collaborative BI",
+    "captionfor": "for"
+  },
+  "admin": {
+      "header": {
+          "mainmsg": "BITeamwork это плагин для Oracle BI, который предоставляет социальное общение, нотификации, дэшборд комментарии, и другие дополняющие опции. Эти опции дополняют Oracle BI и добавляют ценность в пользовательский интерфейс."
+      },
+      "nav": {
+          "company": "Компания",
+          "eeye": "Environment Eye",
+          "uri": "URI доступ",
+          "splash": "Сплэш страницы",
+          "categories": "Категории",
+          "commentmgr": "Менеджер Категории",
+          "security": "Безопасность",
+          "socialapps": "Социальные приложения",
+          "maintenance": "Maintenance",
+          "obiwebservices": "OBIEE Веб Сервисы",
+          "syncmgr": "Менеджер синхроницации",
+          "applicationmgr": "Менеджер приложения",
+          "serverinfo": "Сервер",
+          "support": "Поддержка",
+          "selectoptionmsg": "Выберите административную опцию слева для того чтобы начать работу."
+      },
+      "company": {
+          
+      },
+      "security": {
+          "msgwarningnoinitialsync":"Кажется, что вы не запустили первоначальную конфигурацию BI Системы, чтобы составить лист пользователей и ролей. Нажмите на ссылку - OBIEE Веб Сервисы, аутентифицируйтесь (введие имя пользователя и пароль), потом используйте Менеджер синхроницации."
+      }
+  }
+}

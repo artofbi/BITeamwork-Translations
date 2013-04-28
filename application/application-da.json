@@ -1,0 +1,97 @@
+{
+  "translation": {
+    "language": "Dansk",          
+    "translator": "C.K.",
+    "lastupdate": "2013/04/19"
+  },
+  "title": "BITeamwork (da-DK)",
+  "menu": {
+      "settings": "Konfiguration",
+      "sketch": "Skitse"                              
+  },
+  "buttons": {
+    "bookmark": "BogmÊrke",
+    "share": "Del"
+  },
+  "activitysection": {
+    "title": "Aktivitet",
+    "currentcollaborationtitle": "Dashboard Kommentarer",    
+    "filterbtn": "Filter"
+  },
+  "sumsection": {
+    "dashboardcommentstitle": "Dashboard Kommentarer",
+    "cellcommentstitle": "Celle Kommentarer",
+    "filterbtn": "Filter"
+  },
+  "comments": {
+    "commentslinktitle": "Kommentarer",
+    "commentsreplylinktitle": "Svar",
+    "commenttype": "Type",
+    "commentcategory": "Kategori",
+    "comment": "Kommentar",
+    "nocommentspostedyet": "Der er ingen kommentarer pÂ dette dashboard eller dine s¯gekriterier er for snÊvre.<br />Come on already, get social!<br />Skriv en kommentar!",
+    "commenthistorytitle": "Kommentar Historik",
+    "nocommenthistoryyet": "Ingen kommentarer fra dig, endnu.<br />Come on already, get social!",   
+    "RSSdashboardcommentfeed": "AbonnÈr pÂ dette dashboards kommentarer",
+    "modal": {
+        "commenttab": "Kommentar",
+        "viewalltab": "Vis alt",
+        "historytab": "Historik",
+        "settingstab": "Indstillinger",
+        "addcommenttitle":"Skriv en kommentar",
+        "addcellcommenttitle":"Skriv en celle kommentar",
+        "typelabel": "Type",
+        "commentlabel": "Kommentar",
+        "categorylabel": "Kategori",
+        "assigntolabel": "Overdrag til",
+        "submitcommentbutton": "Afsend kommentar",
+        "statusmsgs": {
+            "noprivilegecreatedashcomment":"Du har ikke rettigheder til at oprette en dashboard kommentar.<p>Kontakt din BI Administrator hvis du mener at have modtaget denne meddelelse ved en fejl.</p>"
+        }
+        
+    }
+  },
+  "search": {
+    "search": "S¯g",
+    "button": "Go",                       
+    "keywordlabel": "N¯gleord",
+    "orderbylabel": "SortÈr efter",
+    "sortlabel": "SortÈr",
+    "applybutton": "AktivÈr"
+  },
+  "sidebarheader": {
+    "title": "BITeamwork for Oracle BI"
+  },
+  "sidebarfooter": {
+    "captionprefix": "Samarbejde i BI",
+    "captionfor": "for"
+  },
+  "admin": {
+      "header": {
+          "mainmsg": "BITeamwork er et slutbruger plug-in til Oracle BI, som muligg¯r intern kommunikataion, advisering, dashboard kommentarer og andre funktionstilf¯jelser. Disse funktioner komplementerer Oracle BI og ¯ger vÊrdien af den overordnede bruger oplevelse."
+      },
+      "nav": {
+          "company": "Virksomhed",
+          "eeye": "Environment Eye",
+          "uri": "URI Adgang",
+          "splash": "Splash Sider",              
+          "categories": "Kategorier",
+          "commentmgr": "Kommentar Administrator",
+          "security": "Sikkerhed",
+          "socialapps": "Social Apps",                 
+          "maintenance": "Vedligeholdelse",
+          "obiwebservices": "OBIEE Web Services",
+          "syncmgr": "Sync Manager",       
+          "applicationmgr": "Application Manager",
+          "serverinfo": "Server Info",
+          "support": "Support",
+          "selectoptionmsg": "VÊlg fra administrationsmulighederne til venstre for at begynde."
+      },
+      "company": {
+          
+      },
+      "security": {
+          "msgwarningnoinitialsync":"Du har tilsyneladende ikke udf¯rt den initielle synkronisering med BI systemet for at indsamle brugere og applikationsroller. VÊlg OBIEE Web Service linket, indtast adgangsoplysninger og brug Synkroniserings Administrator."
+      }
+  }
+}
