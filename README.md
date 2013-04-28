@@ -41,3 +41,6 @@ All of the individuals who have humbled BITeamwork with their time and effort ar
 
 * Google Translate
 * Christian Berg (German, French)
+* Francesco T. (Italian)
+* Claus K. (Danish)
+* Andriy Y. (Russian)
